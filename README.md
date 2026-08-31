@@ -347,14 +347,16 @@ Skipped	         0
 Build Status	BUILD SUCCESS
 ```
 17. Running the Application
+```
 Windows:
 mvnw.cmd spring-boot:run
-
-18. Running the Tests
+```
+19. Running the Tests
+```
 Windows:
 mvnw.cmd clean test
-
-19. Example API Flow
+```
+21. Example API Flow
 Step 1: Create a Transaction
 POST /api/transactions
 ```
