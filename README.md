@@ -498,3 +498,6 @@ The complete automated test suite was executed successfully using Maven.
 [INFO] Total time: 01:12 min
 [INFO] Finished at: 2026-08-31T12:31:24+05:30
 [INFO] ------------------------------------------------------------------------
+
+Declaration of AI Tool Usage
+I hereby declare that GitHub Copilot was utilized as an assistive tool during the development of this project. While Copilot was used for code suggestions, boilerplate generation, and syntax assistance, I actively architected the solution, wrote the core business logic, implemented the domain rules, and performed all testing. I fully understand the underlying mechanics, codebase architecture, and functionality of the application.
